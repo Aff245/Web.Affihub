@@ -1,7 +1,6 @@
 {
   "name": "web-aff-24",
   "version": "1.0.0",
-  "main": "postcss.config.js",
   "private": true,
   "type": "module",
   "scripts": {
